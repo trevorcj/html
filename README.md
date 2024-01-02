@@ -10,6 +10,6 @@ This repository contains the files and resources related to my learning journeyn
 ## What i've learned
 
 - HTML document Structure -'index.html': This file contains code showing the HTML document structure.
-- HTML Text Elements - 'Text Elements': This folder contains a HTML file with HTML text elements(headings, paragraphs, formatting...).
+- HTML Text Elements - 'Text Elements': This folder contains two HTML file with HTML text elements(headings, paragraphs, formatting, lists).
 
 If you have any questions or suggestions, please feel free to reach out to me.
